@@ -1,5 +1,5 @@
 context:
-  version: "0.7.1"
+  version: "0.7.2"
 
 package:
   name: gh-enhance
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/dlvhdr/gh-enhance/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 389de70695de7a5283fff837affcf4edc8556644d973e35e70fee8b5961f1d83
+  sha256: 38b06d18caee447273927c6deb60cd9ef41f3dbb00a3dd6059b9f85d5a698505
   target_directory: src
 
 build:
